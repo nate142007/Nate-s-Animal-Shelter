@@ -1,0 +1,239 @@
+h1{
+    text-align: center;
+    color: black;
+    margin-top: 40px;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+font-size: 70px;
+font-weight: 700;
+}
+.container-fluid{
+
+}
+.nav-link{
+    margin-right: 40px;
+    font-size: 25px;
+}
+.carousel{
+    margin-top: -17px
+}
+.collapse{
+    text-shadow: 20px;
+}
+.text{
+    font-size: 60ch;
+}
+.item{
+    text-overflow: inherit;
+}
+.dropdown{
+    margin-top:-3.5px;
+}
+.pet{
+    margin-top: -1000px;
+     font-size:50px ;
+     color: black;
+}
+.margin{
+    margin-left: 90px;
+    display: flex;
+}
+#bunny{
+    margin-left: 50px;
+} 
+#align{
+    margin-left: 90px;
+}
+.paragraph{
+    padding-left: 45px;
+    font-size: 40px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 700;
+    padding-top: -100px;
+}
+#images{
+    display: inline-block;
+    margin-left: 200px;
+    margin-top: -70px;
+}
+.bunny{
+    padding-top: -50px;
+    padding-left: 40px;
+    font-size: 40px;
+    font-weight: 700;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+}
+.cat{
+    margin-top: 300px;
+}
+.imgcat{
+    font-size: 40px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-left: 30px;
+    color: black;
+    font-weight: 700;
+}
+.lastpic{
+    display: inline-block;
+    margin-top: -1000px;
+    margin-left: 1050px;
+}
+.last{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 700;
+    font-size: 40px;
+    color: black;
+    padding-top: -500px;
+}
+.color{
+    background-color: rgb(247, 158, 43);
+    background-attachment: fixed;
+    margin-top: -40px;
+}
+#volunteer{
+    display: inline-block;
+    margin-left: 300px;
+}
+#care{
+    border-radius: 20px;
+    width: 600px;
+    margin-top: 25px;
+}
+.Ani{
+    padding-bottom: -70px;
+}
+.board{
+    margin-top: 40px;
+}
+#care1{
+    border-radius: 20px;
+    width: 600px;
+    margin-top: 40px;
+}
+#care2{
+    border-radius: 20px;
+    width: 600px;
+    margin-top: 40px;
+}
+h2{
+    font-style: inherit;
+    font-family: cursive;
+    font-weight: 700;
+    text-align: center;
+}
+.under{
+    color: brown;
+    text-align: center;
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.cardh-20{
+    border-radius: 20px;
+}
+#border{
+    border-radius:20px;
+}
+#cat{
+    border-radius: 20px;
+}
+.cardh-100{
+    border-radius: 20px;
+}
+.cardh-40{
+    border-radius: 20px;
+}
+#edge{
+    border-radius: 20px;
+}
+.dogimg{
+    padding-left: 50px;
+    font-size: 40px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 700;
+}
+.card-title{
+    font-size: 30px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: 600;
+}
+.awards{
+    color: black;
+    font-size: 20px;
+    text-align: left;
+    padding-left: 220px;
+}
+.doglogo{
+    display: inline-block;
+    margin-left: 120px;
+    margin-top: 50px;
+}
+.girl{
+    display: inline-block;
+    margin-left: 150px;
+}
+.color2{
+    background-color: rgb(247, 158, 43);
+}
+.spart{
+   display: inline-block;
+}
+#rounded{
+    margin-left: 150px;
+}
+#doglogo{
+    margin-left: 120px;
+    margin-top: 50px;
+}
+#girl{
+    margin-left: 150px;
+    margin-top: -150px;
+}
+.Numbers{
+    font-size: 40px;
+    font-weight: 500;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.star{
+    display: inline-block;
+}
+.five{
+    padding-left: 230px;
+    font-size: 30px;
+    font-weight: 650;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+}
+.write{
+    font-size: 50px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align:left;
+    padding-left:30px;
+}
+h4{
+    padding-top: 120px;
+    padding-left: 30px;
+    padding-bottom: -100px;
+}
+.what{
+    font-size: medium;
+    padding-left: 30px;
+}
+#identify{
+    width: 650px;
+    height:650px;
+    margin-top: -120px;
+}
+#dol{
+    margin-top: 0px;
+    margin-left: 15px;
+}
+#Date{
+    font-size: 70px;
+    font-weight: 600;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#NEWS{
+    text-align: right;
+    padding-right: 150px;
+    padding-top: 150px;
+}
