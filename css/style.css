@@ -291,14 +291,14 @@ h3{
     margin-top:-500px;   
 }
 #COL{
-    width:200px;
-    height:150px;
+    width:170px;
+    height:120px;
     margin-left: 90px;
 }
 #ANC{
     width:240px;
     height:160px;
-    margin-left:-300px;
+    margin-left:-350px;
     display: inline-block;
 }
 #PREM{
@@ -306,4 +306,10 @@ h3{
     height:160px;
     margin-left: 700px;
     margin-top: -180px;
+}
+#STRA{
+    width:240px;
+    height:160px;
+    margin-left:300px;
+     margin-top: -180px;
 }
