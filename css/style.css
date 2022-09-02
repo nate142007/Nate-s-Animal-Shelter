@@ -45,7 +45,7 @@ font-weight: 700;
 }
 .paragraph{
     padding-left: 45px;
-    font-size: 40px;
+    font-size: 30px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-weight: 700;
     padding-top: -100px;
@@ -58,7 +58,7 @@ font-weight: 700;
 .bunny{
     padding-top: -50px;
     padding-left: 40px;
-    font-size: 40px;
+    font-size: 30px;
     font-weight: 700;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: black;
@@ -120,6 +120,7 @@ h2{
     font-family: cursive;
     font-weight: 700;
     text-align: center;
+    padding-top: 60px;
 }
 .under{
     color: brown;
@@ -147,7 +148,7 @@ h2{
 }
 .dogimg{
     padding-left: 50px;
-    font-size: 40px;
+    font-size: 30px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-weight: 700;
 }
@@ -287,29 +288,71 @@ h3{
     font-weight: 600;
 }
 #row6{
-    background-color: rgb(255, 180, 42);
-    margin-top:-500px;   
+    background-color: rgb(247, 158, 43);
+    margin-top:-500px;  
 }
 #COL{
     width:170px;
     height:120px;
-    margin-left: 90px;
 }
 #ANC{
-    width:240px;
-    height:160px;
-    margin-left:-350px;
+    width:170px;
+    height:120px;
     display: inline-block;
 }
 #PREM{
-    width:240px;
-    height:160px;
-    margin-left: 700px;
-    margin-top: -180px;
+    width:170px;
+    height:120px;
 }
 #STRA{
-    width:240px;
-    height:160px;
-    margin-left:300px;
-     margin-top: -180px;
+    width:170px;
+    height:120px;
+}
+#PETER{
+    width:170px;
+    height:120px;
+}
+#GEN{
+    width:170px;
+    height:120px;
+}
+#HAIR{
+    margin-left: 530px;
+    margin-top: 80px;
+    width: 400px;
+}
+#HAIR2{
+    width: 600px;
+    height: 100px;
+    margin-left: 250px;
+}
+.SOME{
+    margin-top:20px;
+}
+#WHEN{
+    font-weight: lighter;
+    font-size: 25px;
+    color: rgb(34, 34, 34);
+    font-family:'Times New Roman', Times, serif;
+    text-align: center;
+}
+.card{
+    margin-top: 50px;
+}
+.KAREN{
+    color: black;
+    font-weight: 400;
+    text-align: center;
+    font-size:20px;
+}
+.SANDERS{
+    font-weight:400 ;
+    text-align: center;
+    color: orange;
+    font-size: 20px;
+}
+.float{
+    margin-left:-50px;
+    margin-top:50px;
+    height: 300px;
 }
